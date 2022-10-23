@@ -1,0 +1,165 @@
+#mainNav {
+  font-family: 'Yomogi';
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.btn {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: 'Amatic SC';
+  font-size: 40px;
+}
+
+h1, h5 {
+  font-family: 'Coda';
+}
+
+.desc {
+  font-family: 'Coda';
+  font-size: 20px;
+}
+
+.bg-one {
+  background-image: url("../../assets/img/calum-lewis-vA1L1jRTM70-unsplash%20(1).jpg");
+  background-size: cover;
+}
+
+.socials {
+  height: 40px;
+  position: absolute;
+  left: 95px;
+}
+
+.gm-icon {
+  height: 100px;
+}
+
+#made-w-love {
+  font-family: 'Amatic SC';
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.names {
+  font-family: 'Coda';
+  font-size: 20px;
+}
+
+.testimony {
+  font-family: 'Amatic SC';
+  font-size: 30px;
+}
+
+#mii_desc_img {
+  position: relative;
+  left: 50%;
+}
+
+#mii_desc_para {
+  padding: 10px 150px 10px 150px;
+  font-family: 'Mali';
+  font-size: 30px;
+}
+
+#web_d_hero {
+  background-color: #ffffff;
+}
+
+#animated-hello {
+  font-family: 'Kalam';
+}
+
+#gm-img-on-index {
+  height: 200px;
+  position: relative;
+  bottom: 25px;
+}
+
+#tgkke {
+  text-shadow: var(--green);
+  background-color: rgba(255,255,255,0.75);
+  position: relative;
+  bottom: 40px;
+  font-family: 'Amatic SC';
+  border-radius: 20px;
+}
+
+@keyframes slidein {
+  0% {
+    margin-right: 300px;
+  }
+  50% {
+    margin-left: 350px;
+  }
+  100% {
+    margin-right: 300px;
+  }
+}
+
+#gm-logo {
+  height: 100px;
+}
+
+@media (min-width:992px) {
+  #mainNav.navbar-shrink {
+    border-bottom: 1px solid rgba(45,45,45,.1);
+    background-color: #ffffff;
+  }
+}
+
+.grad-1 {
+  background-color: #FBF8F1;
+}
+
+.grad-2 {
+  background-color: #F7ECDE;
+}
+
+.grad-3 {
+  background-color: #E9DAC1;
+}
+
+.grad-4 {
+  background-color: #54BAB9;
+}
+
+.card {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #F7ECDE;
+  background-clip: border-box;
+  border: 0 solid rgba(0,0,0,.125);
+  border-radius: 1rem;
+}
+
+.container {
+  border-radius: 20px;
+}
+
+.rec-desc {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.video {
+  position: absolute;
+  left: 30%;
+}
+
+.video-container {
+  height: 400px;
+}
+
+#cursor-img {
+  position: relative;
+  top: 33px;
+}
+
